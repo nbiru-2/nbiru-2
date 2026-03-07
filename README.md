@@ -1,8 +1,9 @@
 
-# Hi, I'm Nafiba Biru! 👋
+# Hi, I'm Nafiba 👋
 
-### 🎓 Computer Science Student @ Constructor University (Germany)
-I’m a developer who enjoys the process of turning complex problems into simple, elegant digital solutions. Whether it's clean code or a crochet hook, I love building things from scratch.
+I'm a Computer Science student at Constructor University in Germany.  
+I enjoy building small projects, learning new technologies, and turning ideas into working software.
+
 
 ---
 
