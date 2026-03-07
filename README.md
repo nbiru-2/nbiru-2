@@ -19,22 +19,17 @@ I enjoy building small projects, learning new technologies, and turning ideas in
 
 ---
 
-### ✨ A Bit About Me
-- 🧶 **Maker at Heart:** When I'm not coding, I'm usually crocheting. I find that building a sweater stitch-by-stitch is a lot like building an app component-by-component.
-- 🍵 **Tea > Coffee:** Definitely not a coffee person! You'll find me fueled by tea instead.
-- 🏗️ **Philosophy:** I'm into building simple things that actually work. I believe the best solutions aren't the most complex ones, but the ones that feel effortless to use.
-- 📍 **Location:** Based in Bremen, Germany.
-
--
-
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+### What I'm working on
+- Personal coding projects
+- Improving my problem solving and system design skills
+- Learning more about building real-world applications
 
 ---
 
-### 📫 Let's Connect!
-- 💼 LinkedIn: [Your Profile Link]
-- 📧 Email: [Your Email]
+### 📫 Let's Connect
+
+💼 **LinkedIn** → [nafibabiru](https://www.linkedin.com/in/nafibabiru/)  
+📧 **Email** → birunafiba@gmail.com
 
 <!--
 **nbiru-2/nbiru-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
